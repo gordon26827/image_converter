@@ -1,5 +1,7 @@
 # image_converter
 
+Example result located in "images/result.png"
+
 Default file selection is limited to jpg, png, and gif files. Other types may work but it's not guaranteed.
 
 Generated images are saved into the images folder as "result.png" when the program is closed
